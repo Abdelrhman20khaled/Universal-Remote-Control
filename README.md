@@ -1,7 +1,7 @@
 # Universal-Remote-Control
 
 ## Overview
-This project focuses on developing an embedded system that utilizes **ATMEGA32** microcontroller and **infrared (IR) sensors** for transmission (TX) and reception (RX). The goal is to create a functional system that can detect and process signals from the IR sensors to trigger specific actions. The project involves both hardware and software components, including the design and development of a custom **PCB** in **Altium Designer** and the implementation of embedded C code to control the system.
+Me and my partner are working on a **Universal Remote Control**. This remote control is programmable and capable of learning and programming other remotes. We have designed 4 different remotes, but the project is scalable based on the vendor's requirements. The system uses **ATMEGA32** microcontroller and **infrared (IR) sensors** for communication between remotes. The project involves both hardware and software, including the design and development of a custom **PCB** in **Altium Designer** and the implementation of embedded C code.
 
 ## Project Components
 
