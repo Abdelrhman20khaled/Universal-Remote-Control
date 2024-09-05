@@ -31,7 +31,7 @@ The primary challenge was the design of the PCB in **Altium Designer**, ensuring
 ## Next Steps
 - Finalize the embedded C code for ATMEGA32.
 - Test and debug the system to ensure proper signal detection and response.
-- 
+
 ## License
 This project is Open-Source.
 
