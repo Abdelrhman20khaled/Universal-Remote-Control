@@ -14,7 +14,7 @@ Me and my partner are working on a **Universal Remote Control**. This remote con
 <table>
   <tr>
     <td><img src="Final Schematic.jpg" width="400"/></td>
-    <td><img src="Final Layout.jpg" width="400"/></td>
+    <td><img src="Final Layout.jpg" width="100"/></td>
   </tr>
   <tr>
     <td><img src="Non Signal Layer.jpg" width="400"/></td>
