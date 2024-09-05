@@ -12,17 +12,17 @@ Me and my partner are working on a **Universal Remote Control**. This remote con
       ### PCB Design Images
 
 <table>
-  <table>
-  <tr>
+<tr>
     <td><img src="Final Schematic.jpg" width="600"/></td>
   </tr>
+</table>
+
+  <table>
   <tr>
     <td><img src="Final Layout.jpg" width="150"/></td>
     <td><img src="Non Signal Layer.jpg" width="150"/></td>
     <td><img src="Final PCB.jpg" width="150"/></td>
   </tr>
-</table>
-
 </table>
 
 ### 2. **Embedded Systems Coding**
