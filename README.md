@@ -31,12 +31,7 @@ The primary challenge was the design of the PCB in **Altium Designer**, ensuring
 ## Next Steps
 - Finalize the embedded C code for ATMEGA32.
 - Test and debug the system to ensure proper signal detection and response.
-
-## Repository Structure
-- `/PCB_Design/`: Contains Altium Designer files, including schematic, layout, and 3D model.
-- `/Embedded_Code/`: Contains the C code for ATMEGA32 (Work in progress).
-- `/Docs/`: Documentation related to the project.
-
+- 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is Open-Source.
 
