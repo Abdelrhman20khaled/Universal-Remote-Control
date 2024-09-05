@@ -17,7 +17,7 @@ Me and my partner are working on a **Universal Remote Control**. This remote con
     <td><img src="Final Layout.jpg" width="100"/></td>
   </tr>
   <tr>
-    <td><img src="Non Signal Layer.jpg" width="400"/></td>
+    <td><img src="Non Signal Layer.jpg" width="200"/></td>
     <td><img src="Final PCB.jpg" width="200"/></td>
   </tr>
 </table>
