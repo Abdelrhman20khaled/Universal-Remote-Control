@@ -13,7 +13,7 @@ Me and my partner are working on a **Universal Remote Control**. This remote con
 
 <table>
 <tr>
-    <td><img src="Final Schematic.jpg" width="600"/></td>
+    <td><img src="Final Schematic.jpg" width="700"/></td>
   </tr>
 </table>
 
