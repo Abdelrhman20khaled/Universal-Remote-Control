@@ -9,7 +9,8 @@ Me and my partner are working on a **Universal Remote Control**. This remote con
    - **Software Used**: Altium Designer
    - **Scope**: Schematic design, layout, and 3D modeling of the PCB to support ATMEGA32 and IR sensors.
    - **Status**: PCB design is completed, with a successful layout and 3D model.
-      ### PCB Design Images
+     
+### PCB Design Images
 
 <table>
 <tr>
